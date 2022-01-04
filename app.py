@@ -363,7 +363,7 @@ def build_matchfacts_return_string(return_game_id_value_team,min_max,attribute,w
 ####################
 
 html_heading = """   
-    <h1 style="font-size: 5em; color:white;text-align:center;; font-family: Brush Script MT; color: #ff4b4b;">Football Match Analysis</h1>
+    <h1 style="font-size: 5em; color:white;text-align:center;; font-family: Open Sans; color: #ff4b4b;">Football Match Analysis</h1>
 <br>
     """
 st.markdown(html_heading, unsafe_allow_html=True)
